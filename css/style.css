@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+.window{
+    margin-top: 2%;
+}
+form{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.task-lists-head{
+    margin-top: 20px;
+    border-bottom: aqua solid 2px;
+    /*margin-bottom: 8px;*/
+}
+.task-lists-head div{
+    font-weight: bold;
+}
+.task-lists-head .col-4{
+    display: block;
+    text-align: center;
+}
+
+.task-lists-head, .task-lists-member{
+    background-color: #000;
+    color: #fff
+}
+.task-lists-member{
+    padding: 4px 0px;
+}
+.task-lists-member div{
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+}
+.task-lists-member .col-4{
+    display: block;
+    text-align: center;
+}
